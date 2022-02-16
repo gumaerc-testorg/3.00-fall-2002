@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Example Problems for Week 5
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-00-thermodynamics-of-materials-fall-2002/45c3ade43bb47e983d3085b68f6b78f5_exweek5.PDF
+file: /media/courses/3-00-thermodynamics-of-materials-fall-2002/45c3ade43bb47e983d3085b68f6b78f5_exweek5.PDF
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: exweek5.PDF
 uid: 45c3ade4-3bb4-7e98-3d30-85b68f6b78f5

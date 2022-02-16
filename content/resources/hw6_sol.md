@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem Set Solution 6
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-00-thermodynamics-of-materials-fall-2002/58c4aa305061cba30c8f2c5be0bdb20c_hw6_sol.PDF
+file: /media/courses/3-00-thermodynamics-of-materials-fall-2002/58c4aa305061cba30c8f2c5be0bdb20c_hw6_sol.PDF
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw6_sol.PDF
 uid: 58c4aa30-5061-cba3-0c8f-2c5be0bdb20c
