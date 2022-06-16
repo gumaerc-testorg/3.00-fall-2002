@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides selected recitation files and associated solutions.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -24,19 +25,19 @@ Solutions
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Recitation 2 ([PDF]({{< baseurl >}}/resources/recitation2))
+Recitation 2 ({{% resource_link 7985e2f6-cfb8-0b9a-0cf7-f1ded088ab3f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rec2solutions))
+({{% resource_link 2726dc8d-0dd4-7aaa-a776-2f37df82930b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Recitation 3 ([PDF - 1.0MB]({{< baseurl >}}/resources/recitation3))
+Recitation 3 ({{% resource_link 0be59fdb-7e90-77c6-ceed-efa729123e41 "PDF - 1.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rec3_solutions))
+({{% resource_link e33763f4-03c3-743e-64fd-03bd946de93f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,13 +46,13 @@ Recitation 3 ([PDF - 1.0MB]({{< baseurl >}}/resources/recitation3))
 Recitation 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rec4_solutions))
+({{% resource_link 5fafdec4-b9de-e16d-896d-28202de0b611 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Final Review ([PDF]({{< baseurl >}}/resources/finalreview))
+Final Review ({{% resource_link e05fd4a3-c36a-ed47-0fd7-779e53bdf5af "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
