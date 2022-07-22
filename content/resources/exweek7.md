@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/40c4d5b87f9f64fe333488
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exweek7.PDF
 uid: 40c4d5b8-7f9f-64fe-3334-8897b5d6fa0b
 ---
 Example Problems for Week 7
-

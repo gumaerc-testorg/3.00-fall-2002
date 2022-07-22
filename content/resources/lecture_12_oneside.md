@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/4ac1662db25a7c8504bf1d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_12_oneside.PDF
 uid: 4ac1662d-b25a-7c85-04bf-1df1e8c0a701
 ---
 Lecture 12: Thermodynamic Functions for General Systems
-

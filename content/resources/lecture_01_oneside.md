@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/1ee1b2498e59187b52269b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_01_oneside.PDF
 uid: 1ee1b249-8e59-187b-5226-9bacf107e374
 ---
 Lecture 1: Introduction and Course Description
-

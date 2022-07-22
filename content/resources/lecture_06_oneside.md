@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/59f04886eeaf521df775ea
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_06_oneside.PDF
 uid: 59f04886-eeaf-521d-f775-ea20a28e00aa
 ---
 Lecture 6: Energy and Work
-

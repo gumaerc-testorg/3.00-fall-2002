@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/8791023a80525e69c7dfe1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_20_oneside.PDF
 uid: 8791023a-8052-5e69-c7df-e17898cadaf5
 ---
 Lecture 20: The Chemical Potential
-

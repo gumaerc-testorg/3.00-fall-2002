@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/58c4aa305061cba30c8f2c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw6_sol.PDF
 uid: 58c4aa30-5061-cba3-0c8f-2c5be0bdb20c
 ---
 Problem Set Solution 6
-

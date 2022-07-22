@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/6f2217e590544df3f8386b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_36_oneside.PDF
 uid: 6f2217e5-9054-4df3-f838-6b58490761dd
 ---
 Lecture 36: Example Binary Phase Diagrams [Extra Phase Diagrams]
-

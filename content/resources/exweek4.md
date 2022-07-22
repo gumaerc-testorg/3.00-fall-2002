@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/f423e756ddb6e11bb41b96
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exweek4.PDF
 uid: f423e756-ddb6-e11b-b41b-966f4a38caca
 ---
 Example Problems for Week 4
-

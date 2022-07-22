@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/5fafdec4b9dee16d896d28
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec4_solutions.PDF
 uid: 5fafdec4-b9de-e16d-896d-28202de0b611
 ---
 Recitation 3 [Solutions] [linked as Recitation 4 Solutions]
-

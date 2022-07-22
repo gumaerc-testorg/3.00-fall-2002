@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/aeea454c0b3b8efbc3415f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_33_oneside.PDF
 uid: aeea454c-0b3b-8efb-c341-5f047ff8830d
 ---
 Lecture 33: Equilibrium Conditions for Solid Solutions
-

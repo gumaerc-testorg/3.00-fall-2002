@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/434596050e67dab931934b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_21_oneside.PDF
 uid: 43459605-0e67-dab9-3193-4b1a35d3d035
 ---
 Lecture 21: Mathematics of Thermodynamics
-

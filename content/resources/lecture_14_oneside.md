@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/77107dfe89f42703e711ab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_14_oneside.PDF
 uid: 77107dfe-89f4-2703-e711-abc463ae79e8
 ---
 Lecture 14: Heat Stored during Phase Changes
-

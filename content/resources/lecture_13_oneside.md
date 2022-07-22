@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/c6a83d3a2b042ad2d0cbc6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_13_oneside.PDF
 uid: c6a83d3a-2b04-2ad2-d0cb-c6888c687ced
 ---
 Lecture 13: The Second Law
-

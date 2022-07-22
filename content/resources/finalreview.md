@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/e05fd4a3c36aed470fd777
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: finalreview.PDF
 uid: e05fd4a3-c36a-ed47-0fd7-779e53bdf5af
 ---
 Recitations: Review [Final Review]
-

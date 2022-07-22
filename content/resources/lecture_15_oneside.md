@@ -5,6 +5,7 @@ file: /courses/3-00-thermodynamics-of-materials-fall-2002/1fb4763fc08414825c7d7c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_15_oneside.PDF
 uid: 1fb4763f-c084-1482-5c7d-7c8f7c40c9fb
 ---
 Lecture 15: Gibbs Free Energy
-
