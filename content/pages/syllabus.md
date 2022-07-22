@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, exams,
+  homework, grading, lecture notes, time management, and reading materials.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 709e9d90-3bcb-4dc9-8cd6-4efb240aac09
 ---
@@ -17,11 +21,11 @@ There will be two midterm exams, one hour. There will be a final exam during exa
 Homework
 --------
 
-Homework assignments will be posted almost every Friday and will usually be due the Monday of the following week (i.e., you will have about 10 days to complete each homework, although on three of those days you will have two different assignments. The intent is allow you a bit of flexibility so that you can budget your time accordingly). No homework can be assigned that will be Lecture 34. **You are encouraged to work in groups and turn in a single homework for the entire group**. Group homeworks\[1\] will receive a 5% bonus score. In other words, if the homework score is 73, then everyone in the group will receive a 77\[2\]. I hope that you will use the group homeworks as a vehicle for cooperative teaching and learning as well as a time-saving device. Regarding the group homeworks—some students fall into a trap of letting other members of their group do the hard intellectual work and think that they can catch up in time to take the exams. Of course, this is not only a mistake and not an effective way to learn—it is also bad manners.
+Homework assignments will be posted almost every Friday and will usually be due the Monday of the following week (i.e., you will have about 10 days to complete each homework, although on three of those days you will have two different assignments. The intent is allow you a bit of flexibility so that you can budget your time accordingly). No homework can be assigned that will be Lecture 34. **You are encouraged to work in groups and turn in a single homework for the entire group**. Group homeworks{{< sup "\\[1\\]" >}} will receive a 5% bonus score. In other words, if the homework score is 73, then everyone in the group will receive a 77{{< sup "\\[2\\]" >}}. I hope that you will use the group homeworks as a vehicle for cooperative teaching and learning as well as a time-saving device. Regarding the group homeworks—some students fall into a trap of letting other members of their group do the hard intellectual work and think that they can catch up in time to take the exams. Of course, this is not only a mistake and not an effective way to learn—it is also bad manners.
 
 Homeworks will be due the following Monday at 5pm. If you choose to work in a group, it is each group member's responsibility that the group's homework is turned in on time.
 
-You will be allowed **one and only one** late homework\[3\]. No exceptions.
+You will be allowed **one and only one** late homework{{< sup "\\[3\\]" >}}. No exceptions.
 
 Final Grade
 -----------
@@ -63,7 +67,7 @@ Thermodynamics is a subject that must be digested slowly. Please try to keep up 
 Abridged Notes
 --------------
 
-Abridged lecture notes will be available on the web the night before each lecture\[5\]. Looking over the notes briefly before the lecture is a good idea. As you will see, they are designed for you to add notes during the lectures. Just printing the notes and reading them in lieu of attending lectures is not a good idea—the notes are designed as an aid to your comprehension and retention of lectures. Also, as described below, printing the lectures and taking notes on them will also provide another means of accruing points towards your final grade.
+Abridged lecture notes will be available on the web the night before each lecture{{< sup "\\[5\\]" >}}. Looking over the notes briefly before the lecture is a good idea. As you will see, they are designed for you to add notes during the lectures. Just printing the notes and reading them in lieu of attending lectures is not a good idea—the notes are designed as an aid to your comprehension and retention of lectures. Also, as described below, printing the lectures and taking notes on them will also provide another means of accruing points towards your final grade.
 
 Copies of the notes will not be provided you—you must download and print them yourselves. Many of the figures are in color. It is not necessary to print them in color, but it may prove to be useful.
 
@@ -92,7 +96,7 @@ About Thermodynamics
 
 Many consider this a "vegetables" class—as in "eating your vegetables first." It is true that thermodynamics is about developing a rigorous understanding of natural processes. And it is true that thermodynamics can become tedious and also true that the useful applications don't begin until a solid foundation is developed. However, I don't think it necessarily has to be boring and I encourage you to keep your minds open about the beauty of developing a subject rigorously. Veggies can be tasty as well.
 
-Much of what you will learn about materials science will rely on your comprehension of thermodynamics. Unfortunately, most of you do not yet know about all the wonderful things you are going to learn over the next three years as you become a professional materials scientist and how they depend on this course. So, there will be times when you will be struggling to learn something without knowing why you should bother to learn it. Had we an infinite amount of time, I would introduce a practical aspect of each thermodynamic concept, then rigorously teach you the concept, and then show how it applies in a particular case. However, there are a large number of concepts that I must teach you in a finite amount of time. Furthermore, some concepts are so basic and essential that any practical example would seem artificial\[6\]. I have tried to distill the thermodynamics you will need to know into 37 lectures—sometimes you are going to have to trust that I am trying to teach you something useful.
+Much of what you will learn about materials science will rely on your comprehension of thermodynamics. Unfortunately, most of you do not yet know about all the wonderful things you are going to learn over the next three years as you become a professional materials scientist and how they depend on this course. So, there will be times when you will be struggling to learn something without knowing why you should bother to learn it. Had we an infinite amount of time, I would introduce a practical aspect of each thermodynamic concept, then rigorously teach you the concept, and then show how it applies in a particular case. However, there are a large number of concepts that I must teach you in a finite amount of time. Furthermore, some concepts are so basic and essential that any practical example would seem artificial{{< sup "\\[6\\]" >}}. I have tried to distill the thermodynamics you will need to know into 37 lectures—sometimes you are going to have to trust that I am trying to teach you something useful.
 
 I truly and deeply like thermodynamics and have liked it since the first time I took it. It is elegant and beautiful. I also think that it takes many years to master this subject. I believe that a thorough understanding of the subject—especially of the second law—separates qualified scientists from amateurs and pretenders.
 
@@ -102,7 +106,7 @@ However, I encourage you to be skeptical about what I tell you. Here are some ex
 > \-A. Einstein.
 > 
 > Once or twice I have been provoked and asked the company how many of them could describe the Second Law of Thermodynamics. The response was cold: It was also negative. Yet I was asking something which is about the scientific equivalent of "Have you read a work of Shakespeare's?"  
-> \-C.P. Snow\[7\].
+> \-C.P. Snow{{< sup "\\[7\\]" >}}.
 > 
 > The law that entropy always increases-the second law of thermodynamics-holds I think, the supreme position among the laws of Nature. If someone points out to you that your pet theory of the universe is in disagreement with Maxwell's equations—then so much worse for Maxwell equations. If it is found to be contradicted by observation—well these experimentalists do bungle things sometimes. But if your theory is found to be against the second law of Thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.  
 > \-Sir A.S. Eddington.
@@ -123,7 +127,7 @@ Last year I used a classical textbook by Denbigh in this course to supplement th
 
 In the first part of this course, it might also be useful for you to browse through the classic monograph by Fermi . It is a classic introduction to the fundamentals of thermodynamics—it is also a bargain. The coverage in Fermi is generic and applicable to all branches of physics and engineering. Concepts that are specific to materials science will be covered in the lectures.
 
-It is very useful to take a look at one or two of the hundreds of other thermodynamics texts\[8\]. Everyone learns in different ways and you may find one that is particularly suitable for you. Perhaps the reason that there are so many thermodynamics texts is that few people agree on the best way to explain the material. You will find that notation varies considerably from book to book (and sometimes even within a single text). You can often learn just by sorting out differences in notation—after all, it is only the subject material that counts. You will learn even more if you study the different ways that similar subject material is developed. You will begin to master the subject when you start identifying the conceptual errors that exist in nearly every textbook.
+It is very useful to take a look at one or two of the hundreds of other thermodynamics texts{{< sup "\\[8\\]" >}}. Everyone learns in different ways and you may find one that is particularly suitable for you. Perhaps the reason that there are so many thermodynamics texts is that few people agree on the best way to explain the material. You will find that notation varies considerably from book to book (and sometimes even within a single text). You can often learn just by sorting out differences in notation—after all, it is only the subject material that counts. You will learn even more if you study the different ways that similar subject material is developed. You will begin to master the subject when you start identifying the conceptual errors that exist in nearly every textbook.
 
 Gaskell and Devereux are widely used in Materials Sciences courses at other good universities. Gaskell, in particular, is full of practical worked problems for materials scientists. Keep in mind that notation varies from textbook to textbook; nevertheless, these books may help clarify complicated topics and provide additional practical problems.
 
@@ -161,26 +165,26 @@ Shrodinger, Edwin. _Statistical Thermodynamics_. Dover, 1989.
 Footnotes
 ---------
 
-Homeworks\[1\]  
+Homeworks{{< sup "\\[1\\]" >}}  
 Groups are comprised of two or more people.
 
-77\[2\]  
+77{{< sup "\\[2\\]" >}}  
 With the caveat about group participation described below.
 
-Homework\[3\]  
+Homework{{< sup "\\[3\\]" >}}  
 You can be associated through your group with only one late homework. Acceptable homeworks expire one week after their due date—i.e., you get one week's grace for a late homework.
 
-group\[4\]  
+group{{< sup "\\[4\\]" >}}  
 Late homeworks will be charged to all members of the group.
 
-Lecture\[5\]  
+Lecture{{< sup "\\[5\\]" >}}  
 At least, I will do my best to get them there on time.
 
-Artificial\[6\]  
+Artificial{{< sup "\\[6\\]" >}}  
 Think about how you might try motivate a very young student to learn multiplication, algebra, Newton's laws, or calculus—there are some things that you just need to know to get on with life.
 
-Snow\[7\]  
+Snow{{< sup "\\[7\\]" >}}  
 C.P. Snow (1905-1980) was a physicist and novelist that explored, among other things, the culture of science and the relationship of science to culture. To be fair, this quote is out of context, for in his book Two Cultures, Snow is exposing the hypocrisy of company is a group of liberal artists who scoff at what they call the narrow-mindedness of scientists. However, I think that the same question, if applied to a modern group of scientists, might have the same reaction.
 
-texts\[8\]  
+texts{{< sup "\\[8\\]" >}}  
 Sometimes you will find the entire solution to a troublesome homework question—I think it is perfectly acceptable to transcribe a (homework) solution that you find elsewhere. However, attribution is a moral question that I will leave to you.
