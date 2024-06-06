@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 23: Mathematics and Stability'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/53e4dbd940341f172fb10950e57eff29_lecture_23_oneside.PDF
+file_size: 118106
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

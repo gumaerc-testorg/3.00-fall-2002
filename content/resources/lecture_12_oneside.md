@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 12: Thermodynamic Functions for General Systems'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/4ac1662db25a7c8504bf1df1e8c0a701_lecture_12_oneside.PDF
+file_size: 103596
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
