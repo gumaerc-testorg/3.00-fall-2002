@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation 3
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/0be59fdb7e9077c6ceedefa729123e41_recitation3.PDF
+file_size: 1000178
 file_type: application/pdf
 learning_resource_types:
 - Recitations

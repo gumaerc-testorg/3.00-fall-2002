@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 9: Quasistatic Processes'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/fd6cb3968c7193c9946a6e785c9d335e_lecture_09_oneside.PDF
+file_size: 128398
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
