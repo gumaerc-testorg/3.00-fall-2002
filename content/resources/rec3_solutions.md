@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation 3 [Solutions]
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/e33763f403c3743e64fd03bd946de93f_rec3_solutions.PDF
+file_size: 70018
 file_type: application/pdf
 learning_resource_types:
 - Recitations

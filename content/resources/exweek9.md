@@ -2,6 +2,7 @@
 content_type: resource
 description: Example Problems for Week 9
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/201d89e6023469dfea18b28168812cf0_exweek9.PDF
+file_size: 860681
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 8: Stored Energy in Solids, First Law for Fluids'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/e7236d44f8d03eb5b9b876f40dcefaf8_lecture_08_oneside.PDF
+file_size: 99121
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

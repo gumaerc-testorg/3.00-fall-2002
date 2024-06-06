@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set Solution 8
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/9c4c5697d29c74913ac58bb28c6af444_hw8_sol.PDF
+file_size: 76069
 file_type: application/pdf
 learning_resource_types:
 - Assignments

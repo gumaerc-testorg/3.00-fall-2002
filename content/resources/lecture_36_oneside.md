@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture 36: Example Binary Phase Diagrams [Extra Phase Diagrams]'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/6f2217e590544df3f8386b58490761dd_lecture_36_oneside.PDF
+file_size: 212150
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
