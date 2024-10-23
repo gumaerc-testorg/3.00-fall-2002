@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 27: Gibbs Free Energy and Phase Diagrams'
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/755a1b8d70544d1bc3433a7b2223bb7f_lecture_27_oneside.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/755a1b8d70544d1bc3433a7b2223bb7f_lecture_27_oneside.PDF
 file_size: 53443
 file_type: application/pdf
 learning_resource_types:
