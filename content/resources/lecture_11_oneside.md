@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 11: Internal Energy and Enthalpy for Fluids'
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/8ac85e326fa6f06d43ea16eb1b454964_lecture_11_oneside.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/8ac85e326fa6f06d43ea16eb1b454964_lecture_11_oneside.PDF
 file_size: 110570
 file_type: application/pdf
 learning_resource_types:
