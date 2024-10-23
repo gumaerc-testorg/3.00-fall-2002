@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 22: Mathematical Relations and Changing Variables'
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/d6a1b671852d33f1a91dbcfd378740c9_lecture_22_oneside.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/d6a1b671852d33f1a91dbcfd378740c9_lecture_22_oneside.PDF
 file_size: 152275
 file_type: application/pdf
 learning_resource_types:

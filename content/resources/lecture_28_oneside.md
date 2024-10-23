@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 28: Uniformity of Chemical Potential at Equilibrium'
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/5095456b7171d72056b09ff35a5e4e55_lecture_28_oneside.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/5095456b7171d72056b09ff35a5e4e55_lecture_28_oneside.PDF
 file_size: 169245
 file_type: application/pdf
 learning_resource_types:

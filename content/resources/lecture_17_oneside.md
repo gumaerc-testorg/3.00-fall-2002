@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to equilibrium thermodynamics,
   unconstrained equilibrium, and implications.
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/e1a03fddc391d548bb045355fa8f10a7_lecture_17_oneside.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/e1a03fddc391d548bb045355fa8f10a7_lecture_17_oneside.PDF
 file_size: 199112
 file_type: application/pdf
 learning_resource_types:
