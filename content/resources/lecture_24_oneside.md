@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 24: Implications of Equilibrium and Gibbs-Duhem'
-file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/9e9ccbff64bd673f8ebb7734571b75cf_lecture_24_oneside.PDF
+file: /courses/3-00-thermodynamics-of-materials-fall-2002/9e9ccbff64bd673f8ebb7734571b75cf_lecture_24_oneside.PDF
 file_size: 135171
 file_type: application/pdf
 learning_resource_types:

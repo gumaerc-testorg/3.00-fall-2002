@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 14: Heat Stored during Phase Changes'
-file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/77107dfe89f42703e711abc463ae79e8_lecture_14_oneside.PDF
+file: /courses/3-00-thermodynamics-of-materials-fall-2002/77107dfe89f42703e711abc463ae79e8_lecture_14_oneside.PDF
 file_size: 126943
 file_type: application/pdf
 learning_resource_types:
