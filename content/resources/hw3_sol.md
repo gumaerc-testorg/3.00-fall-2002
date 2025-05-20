@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set Solution 3
-file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/29fe29cdda18f3b37ffb470671d0d7f3_hw3_sol.PDF
+file: /courses/3-00-thermodynamics-of-materials-fall-2002/29fe29cdda18f3b37ffb470671d0d7f3_hw3_sol.PDF
 file_size: 81716
 file_type: application/pdf
 learning_resource_types:

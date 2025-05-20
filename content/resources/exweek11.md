@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example Problems for Week 10
-file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/4fd54c8fd0ea1d3eb2c6540f6889a37a_exweek11.PDF
+file: /courses/3-00-thermodynamics-of-materials-fall-2002/4fd54c8fd0ea1d3eb2c6540f6889a37a_exweek11.PDF
 file_size: 894230
 file_type: application/pdf
 learning_resource_types:

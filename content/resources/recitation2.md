@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation 2
-file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/7985e2f6cfb80b9a0cf7f1ded088ab3f_recitation2.PDF
+file: /courses/3-00-thermodynamics-of-materials-fall-2002/7985e2f6cfb80b9a0cf7f1ded088ab3f_recitation2.PDF
 file_size: 74135
 file_type: application/pdf
 learning_resource_types:

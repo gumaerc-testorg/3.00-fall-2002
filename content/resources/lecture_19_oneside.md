@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 19: Generalized Conditions for Equilibrium'
-file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/d3e9629df5ebc6f89d0cc15c6e24db88_lecture_19_oneside.PDF
+file: /courses/3-00-thermodynamics-of-materials-fall-2002/d3e9629df5ebc6f89d0cc15c6e24db88_lecture_19_oneside.PDF
 file_size: 121666
 file_type: application/pdf
 learning_resource_types:
