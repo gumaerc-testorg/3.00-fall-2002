@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to the problems discussed in Recitation 2
-file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/2726dc8d0dd47aaaa7762f37df82930b_rec2solutions.PDF
+file: /courses/3-00-thermodynamics-of-materials-fall-2002/2726dc8d0dd47aaaa7762f37df82930b_rec2solutions.PDF
 file_size: 895602
 file_type: application/pdf
 learning_resource_types:

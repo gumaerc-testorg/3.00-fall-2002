@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 7: Properties of Materials'
-file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/184f6f0bbb972ce1dc52f1914006f950_lecture_07_oneside.PDF
+file: /courses/3-00-thermodynamics-of-materials-fall-2002/184f6f0bbb972ce1dc52f1914006f950_lecture_07_oneside.PDF
 file_size: 351035
 file_type: application/pdf
 learning_resource_types:

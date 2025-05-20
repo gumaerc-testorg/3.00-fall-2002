@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example Problems for Week 6
-file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/a9d6cbba15383a88c2b18c7037fbb2e1_exweek6.PDF
+file: /courses/3-00-thermodynamics-of-materials-fall-2002/a9d6cbba15383a88c2b18c7037fbb2e1_exweek6.PDF
 file_size: 877951
 file_type: application/pdf
 learning_resource_types:
