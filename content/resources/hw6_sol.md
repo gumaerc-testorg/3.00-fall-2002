@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set Solution 6
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/58c4aa305061cba30c8f2c5be0bdb20c_hw6_sol.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/58c4aa305061cba30c8f2c5be0bdb20c_hw6_sol.PDF
 file_size: 74347
 file_type: application/pdf
 learning_resource_types:

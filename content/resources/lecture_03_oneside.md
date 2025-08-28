@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 3: Thermodynamic Variables'
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/0e64f29f90775957de6dc8f0d185f49b_lecture_03_oneside.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/0e64f29f90775957de6dc8f0d185f49b_lecture_03_oneside.PDF
 file_size: 142312
 file_type: application/pdf
 learning_resource_types:

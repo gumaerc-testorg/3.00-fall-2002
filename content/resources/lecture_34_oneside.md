@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 34: Equilibrium Conditions for Charged Species'
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/756c0954ea937547db69e17a396622fc_lecture_34_oneside.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/756c0954ea937547db69e17a396622fc_lecture_34_oneside.PDF
 file_size: 194235
 file_type: application/pdf
 learning_resource_types:
