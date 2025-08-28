@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example Problems for Week 8
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/3d94f02980798ea09cf6aba83288bb93_exweek8.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/3d94f02980798ea09cf6aba83288bb93_exweek8.PDF
 file_size: 940854
 file_type: application/pdf
 learning_resource_types:

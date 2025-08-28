@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 10: Heat Capacities and Gaseous Behavior'
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/5beff7ddf7bad261c450faf45c6369fa_lecture_10_oneside.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/5beff7ddf7bad261c450faf45c6369fa_lecture_10_oneside.PDF
 file_size: 109147
 file_type: application/pdf
 learning_resource_types:
