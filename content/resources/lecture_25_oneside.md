@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture 25: Symmetry and Equilibrium'
-file: /courses/3-00-thermodynamics-of-materials-fall-2002/45898f703b701dea48a5b8be71ec5ae7_lecture_25_oneside.PDF
+file: /ol-ocw-studio-app/courses/3-00-thermodynamics-of-materials-fall-2002/45898f703b701dea48a5b8be71ec5ae7_lecture_25_oneside.PDF
 file_size: 163375
 file_type: application/pdf
 learning_resource_types:
